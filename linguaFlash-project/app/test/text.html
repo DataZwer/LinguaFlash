@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // function randomArray(args) {
+        //     let orderArrayLength = args.length;
+        //     // 创建一个长度为orderArrayLength的从 0 ~ orderArrayLength-1 的数组
+        //     let orderArray = Array.apply(null, { length: orderArrayLength }).map((item, index) => {
+        //         return index;
+        //     });
+        //     // 打乱上述数组
+        //     return orderArray.sort(() => Math.random() - 0.5).slice(0, orderArrayLength);
+        // }
+
+        // var data= new Array( 
+        //         {
+        //             "id": 15,
+        //             "words": "backward",
+        //             "translation": "落后的",
+        //             "phonetic": "英 [ˈbækwəd]　美 [ˈbækwərd]",
+        //             "otherforms": "同义词：rearward、back、backwards,反义词：forward、ahead",
+        //             "notes": "形容词:落后的; 向后的; 反向的; 怯生生的,副词:向后地; 相反地; 回溯地",
+        //             "category": "2"
+        //         },
+        //         {
+        //             "id": 16,
+        //             "words": "bacon",
+        //             "translation": "培根",
+        //             "phonetic": "英 [ˈbeɪkən]　美 [ˈbekən]",
+        //             "otherforms": null,
+        //             "notes": "名词:培根; 腊肉; 熏猪肉; 咸猪肉",
+        //             "category": "2"
+        //         },
+        //         {
+        //             "id": 17,
+        //             "words": "bacteria",
+        //             "translation": "细菌",
+        //             "phonetic": "英 [bækˈtɪəriə]　美 [bækˈtɪriə]",
+        //             "otherforms": "原级：bacterium",
+        //             "notes": "名词:细菌(bacterium的名词复数)",
+        //             "category": "2"
+        //         }
+        //    
+        //)
+
+        //console.log(randomArray(data));
+
+        //判断时间是不是以前的
+        // function calculateDiffTime(start_time) {
+        //         if (!parseInt(start_time)) return "-";
+        //         // var endTime = Math.round(new Date() / 1000);
+
+        //         // var timeDiff = endTime - start_time
+        //         // var day = parseInt(timeDiff / 86400);
+        //         // var hour = parseInt((timeDiff % 86400) / 3600);
+        //         // var minute = parseInt((timeDiff % 3600) / 60);
+
+        //         const newdate = new Date();
+        //         const olddate = new Date(start_time * 1000);
+
+        //         const newdateyears = newdate.getFullYear()
+        //         const olddateyears = olddate.getFullYear()
+        //         console.log(newdateyears);
+        //         console.log(olddateyears);
+
+        //         const newdatemonth = newdate.getMonth() + 1
+        //         const olddatemonth = olddate.getMonth() + 1 
+        //         console.log(newdatemonth);
+        //         console.log(newdatemonth);
+
+        //         const newdateday = newdate.getDate() 
+        //         const olddateday = olddate.getDate() 
+        //         console.log(newdateday);
+        //         console.log(olddateday);
+
+        //         if(newdateyears == olddateyears ){
+        //             if (newdatemonth == olddatemonth) {
+        //                 if (newdateday - olddateday > 0) {
+        //                     return true
+        //                 } else {
+        //                     return false
+        //                 }
+        //             } else {
+        //                 if (newdatemonth - olddatemonth > 0) {
+        //                     return true
+        //                 } else {
+        //                     return false
+        //                 }
+        //             }
+        //         }else{
+        //             if(newdateyears - olddateyears > 0){
+        //                 return true
+        //             }else{
+        //                 return false
+        //             }
+        //         }
+                
+
+        //         // day = day?(day+'天'):'';
+        //         // hour = hour?(hour+"时"):'';
+        //         // minute = minute?(minute+"分"):'';
+        //         // return day + hour + minute;
+        //         // return D
+        //     }
+        
+        
+        // console.log(calculateDiffTime('1654134695.122'));
+
+        var max = 11;
+            var min = 8;
+            var random = parseInt(Math.random() * (max - min) + min)
+            console.log(random);
+    </script>
+</body>
+</html>

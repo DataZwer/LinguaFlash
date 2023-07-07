@@ -1,0 +1,8 @@
+/node_modules
+/linguaFlash-project/app/node_modules
+/linguaFlash-project-admin/node_modules
+/linguaFlash-server/api-admin/node_modules
+/linguaFlash-server/api-server/node_modules
+/unpackage/dist
+/linguaFlash-project/app/unpackage/dist
+/linguaFlash-project-admin/unpackage/dist

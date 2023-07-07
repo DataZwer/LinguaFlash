@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box {
+            position: relative;
+            width: 300px;
+            height: 300px;
+            margin: 100px auto;
+            border-radius: 50%;
+            transform-style: preserve-3d;
+            transition: all 0.5s;
+        }
+
+        .box:hover {
+            transform: rotateX(-180deg);
+        }
+
+        .qian,
+        .hou {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            font-size: 40px;
+            color: #FFF;
+            text-align: center;
+            line-height: 300px;
+        }
+
+        .qian {
+            background: #39F;
+            z-index: 1;
+        }
+        .qian .qian-lijian1 {
+            font-size: 10px;
+            color: #FFF;
+            text-align: center;
+            line-height: 10px;
+            z-index: 1;
+        }
+        .qian .qian-lijian2 {
+            font-size: 10px;
+            color: #FFF;
+            text-align: center;
+            line-height: 10px;
+            z-index: 1;
+        }
+
+        .hou {
+            background: #F90;
+            transform: rotateX(180deg);
+        }
+        .hou .hou-lijian1 {
+            font-size: 10px;
+            color: #FFF;
+            text-align: center;
+            line-height: 10px;
+        }
+
+        .hou .hou-lijian2{
+            font-size: 10px;
+            color: #FFF;
+            text-align: center;
+            line-height: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="box">
+        <div class="qian">
+            <div class="qian-lijian1">李健1</div>
+            <div class="qian-lijian2">李健2</div>
+        </div>
+        <div class="hou">
+            <div class="hou-lijian1">丽江1</div>
+            <div class="hou-lijian2">丽江2</div>
+        </div>
+    </div>
+
+</body>
+
+</html>
