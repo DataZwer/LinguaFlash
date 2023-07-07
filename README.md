@@ -96,97 +96,97 @@ node app.js
 
 - 登录：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/login.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/login.png">
 
 
 - 注册：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/register.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/register.png">
 
 - 首页：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/index.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/index.png">
 
 - 单词学习：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/study.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/study.png">
 
 - 拼写练习：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/spelling.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/spelling.png">
 
 - 选词填空：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/practice1.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/practice1.png">
 
 - 词语练习：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/practice2.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/practice2.png">
 
 - 用户信息：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/user1.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/user1.png">
 
 - 编辑信息：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/updateInfo.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/updateInfo.png">
 
 
 - 用户收藏：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/ui/userStar.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/ui/userStar.png">
 
 #### 后台界面：
 
 - 首页：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/index.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/index.png">
 
 
 - 管理员列表：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/admin.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/admin.png">
 
 
 - 修改密码：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/updatePsd.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/updatePsd.png">
 
 - 用户列表：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/user.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/user.png">
 
 - 外语课程,：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/course.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/course.png">
 
 - 主题课程：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/subject.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/subject.png">
 
 - 用户主题课程：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/userSubject.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/userSubject.png">
 
 - 单词列表：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/word.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/word.png">
 
 - 用户单词列表：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/userWord2.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/userWord2.png">
 
 - 句子列表：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/sentence.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/sentence.png">
 
 - 用户句子列表：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/word.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/word.png">
 
 - 单词计划列表：<br/>
 
-  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/screenshots/backend/userPlan.png">
+  <img width="1191" src="https://github.com/qingshansuiyun/LinguaFlash/blob/main/screenshots/backend/userPlan.png">
 
 
 
